@@ -17,5 +17,10 @@
     "tslib": "^2.5.0",
     "typescript": "^5.0.2",
     "vite": "^4.3.9"
+  },
+  "dependencies": {
+    "google-picker": "^0.1.1",
+    "google-sign-in": "^3.0.4",
+    "googleapis": "^118.0.0"
   }
 }
